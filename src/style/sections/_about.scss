@@ -42,6 +42,7 @@
     }
 
     &__info {
+      //font-size: 20px;
       display: flex;
       height: 100%;
       justify-content: center;
@@ -52,6 +53,7 @@
       }
 
       &-text {
+        font-size: 18px;
         text-align: left;
 
         @include respond(tab-port) {
