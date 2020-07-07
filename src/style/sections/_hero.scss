@@ -19,7 +19,10 @@
 
   background: url("/src/assets/main1.png");
   background-position: center;
-  background-size: cover; 
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover; 
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
