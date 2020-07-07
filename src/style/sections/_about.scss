@@ -18,6 +18,10 @@
     clip-path: none;
   }
 
+  img.rounded-corners {
+    border-radius: 50%;
+  }
+
   .about-wrapper {
     @include respond(phone) {
       padding-bottom: 5rem;
