@@ -12,12 +12,12 @@
     "url": "git+https://github.com/neerajpsingh/my-workfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Neeraj Pratap Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/neerajpsingh/my-workfolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/neerajpsingh/my-workfolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
